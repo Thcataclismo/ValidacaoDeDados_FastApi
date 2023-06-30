@@ -15,7 +15,7 @@ Instale as dependências necessárias executando o comando:
 ```shell
 pip install -r requirements.txt
 
-Uso
+#Uso
 Inicie o servidor FastAPI com o seguinte comando:
 
 shell
@@ -29,3 +29,4 @@ SQLAlchemy: Uma poderosa ferramenta de mapeamento objeto-relacional (ORM) para P
 Pydantic: Uma biblioteca para validação de dados e serialização/desserialização de objetos.
 Contribuição
 Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novas funcionalidades. Abra uma issue ou envie um pull request.
+
