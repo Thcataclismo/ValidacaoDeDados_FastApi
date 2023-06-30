@@ -14,3 +14,18 @@ Instale as dependências necessárias executando o comando:
 
 ```shell
 pip install -r requirements.txt
+
+Uso
+Inicie o servidor FastAPI com o seguinte comando:
+
+shell
+Copy code
+uvicorn main:app --reload
+Acesse a documentação da API em http://localhost:8000/docs para visualizar e testar as rotas disponíveis.
+
+Tecnologias Utilizadas
+FastAPI: Um moderno framework de desenvolvimento de APIs com Python.
+SQLAlchemy: Uma poderosa ferramenta de mapeamento objeto-relacional (ORM) para Python.
+Pydantic: Uma biblioteca para validação de dados e serialização/desserialização de objetos.
+Contribuição
+Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novas funcionalidades. Abra uma issue ou envie um pull request.
