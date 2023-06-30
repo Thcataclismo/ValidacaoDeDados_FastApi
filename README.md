@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FastAPI-0.68.1-blue.svg" alt="FastAPI Version" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi" alt="FastAPI Version" />
   </a>
   <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLAlchemy-1.4.26-red.svg" alt="SQLAlchemy Version" />
+    <img src="https://img.shields.io/badge/-SQLAlchemy-563D7C?style=flat-square&logo=sqlalchemy" alt="SQLAlchemy Version" />
   </a>
   <a href="https://pydantic-docs.helpmanual.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Pydantic-1.8.2-green.svg" alt="Pydantic Version" />
+    <img src="https://img.shields.io/badge/-Pydantic-2ECC71?style=flat-square&logo=pydantic" alt="Pydantic Version" />
   </a>
 </p>
 
